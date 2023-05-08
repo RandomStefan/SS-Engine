@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Game Objects">
+      <UniqueIdentifier>{0f389cbd-d310-4896-8cc2-d9ac91726556}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects\Headers">
+      <UniqueIdentifier>{b6b1f2fe-343d-4223-b595-360b4f0390c3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game Objects\Sources">
+      <UniqueIdentifier>{74319236-bab8-4e09-b608-0ad3ec7fc01d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="General Game Logic">
+      <UniqueIdentifier>{9ba316b6-f7ee-4bd0-aa68-876d0421777d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="General Game Logic\Headers">
+      <UniqueIdentifier>{e29b875e-be2a-4d50-822b-13ac296eeb4e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="General Game Logic\Sources">
+      <UniqueIdentifier>{aa2e7313-9b35-4c12-8c8c-ae314a2831ce}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="General Game Logic\IMGui">
+      <UniqueIdentifier>{98214967-4c31-4e3e-bda6-a82672804e99}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries\imgui-master\imgui.cpp">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries\imgui-master\imgui_demo.cpp">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries\imgui-master\imgui_draw.cpp">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries\imgui-master\imgui_tables.cpp">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries\imgui-master\imgui_widgets.cpp">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries\imgui_sdl-master\imgui_sdl.cpp">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries\imgui-master\backends\imgui_impl_sdl.cpp">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClCompile>
+    <ClCompile Include="bitmap.cpp">
+      <Filter>Game Objects\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Sprite.cpp">
+      <Filter>Game Objects\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="GameObject.cpp">
+      <Filter>Game Objects\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="input.cpp">
+      <Filter>General Game Logic\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="ResourceManager.cpp">
+      <Filter>General Game Logic\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="SceneManager.cpp">
+      <Filter>General Game Logic\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="Scene.cpp">
+      <Filter>General Game Logic\Sources</Filter>
+    </ClCompile>
+    <ClCompile Include="I_GUI.cpp">
+      <Filter>General Game Logic\Sources</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Libraries\imgui-master\imconfig.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries\imgui-master\imgui.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries\imgui-master\imgui_internal.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries\imgui-master\imstb_rectpack.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries\imgui-master\imstb_textedit.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries\imgui-master\imstb_truetype.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries\imgui_sdl-master\imgui_sdl.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="Libraries\imgui-master\backends\imgui_impl_sdl.h">
+      <Filter>General Game Logic\IMGui</Filter>
+    </ClInclude>
+    <ClInclude Include="bitmap.h">
+      <Filter>Game Objects\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>Game Objects\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>Game Objects\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Debug.h">
+      <Filter>General Game Logic\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="input.h">
+      <Filter>General Game Logic\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ResourceManager.h">
+      <Filter>General Game Logic\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="SceneManager.h">
+      <Filter>General Game Logic\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>General Game Logic\Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="I_GUI.h">
+      <Filter>General Game Logic\Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

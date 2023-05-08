@@ -1,0 +1,28 @@
+﻿  GameObject.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Input.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  input.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\input.cpp(1,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  I_GUI.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\I_GUI.h(2,10): fatal  error C1083: Cannot open include file: 'imgui.h': No such file or directory
+  imgui_impl_sdl.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Libraries\imgui-master\backends\imgui_impl_sdl.cpp(56,10): fatal  error C1083: Cannot open include file: 'imgui.h': No such file or directory
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_sdl.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Libraries\imgui_sdl-master\imgui_sdl.cpp(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  main.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\input.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  bitmap.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\bitmap.h(4,10): fatal  error C1083: Cannot open include file: 'SDL_render.h': No such file or directory
+  ResourceManager.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\ResourceManager.h(3,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Scene.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Input.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  SceneManager.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Input.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Sprite.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Input.h(2,10): fatal  error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

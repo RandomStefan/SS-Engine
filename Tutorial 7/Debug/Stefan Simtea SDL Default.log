@@ -1,0 +1,29 @@
+﻿  GameObject.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\GameObject.cpp(252,20): warning C4018: '<': signed/unsigned mismatch
+  input.cpp
+  I_GUI.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\I_GUI.cpp(62,74): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\I_GUI.cpp(62,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  imgui_impl_sdl.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  imgui_sdl.cpp
+  main.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Debug.h(27,21): warning C4018: '<': signed/unsigned mismatch
+  bitmap.cpp
+  ResourceManager.cpp
+  Scene.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Debug.h(27,21): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Scene.cpp(98,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Scene.cpp(110,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Scene.cpp(123,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Scene.cpp(147,20): warning C4018: '<': signed/unsigned mismatch
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Scene.cpp(205,20): warning C4018: '<': signed/unsigned mismatch
+  SceneManager.cpp
+D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Debug.h(27,21): warning C4018: '<': signed/unsigned mismatch
+  Sprite.cpp
+  Generating Code...
+  Stefan Simtea SDL Default.vcxproj -> D:\Desktop\Productivity\Coding\Projects\University-Stuff\Tools Programming\Tutorial 7\Debug\GameEngine Tools.exe
